@@ -1,0 +1,9 @@
+timestamp,name,gender,education,occupation,income,ethnicity,age,familiarity
+2025-05-25 17:39:02,Richard,Male,Graduate Degree,Civil Engineer,"\$100,000 - $150,000",Other,65 and above,Very familiar
+2025-05-25 19:54:36,Rain,Female,Bachelor's Degree,Health Information Technologist,"\$25,000 - $50,000",Hispanic or Latin American,18 - 24,Somewhat familiar
+2025-05-25 20:13:10,Rose,Female,Bachelor's Degree,Health Information Technologist,"\$25,000 - $50,000",European,18 - 24,Somewhat familiar
+2025-05-25 20:32:41,Indi,Female,Bachelor's Degree,Medical Laboratory Scientist,"\$50,000 - $75,000",European,25 - 34,Not at all familiar
+2025-05-25 20:36:19,Indi,Female,Graduate Degree,Medical Laboratory Scientist,"\$250,000 +",Hispanic or Latin American,45 - 54,Somewhat familiar
+2025-05-25 20:47:32,John,Male,Professional Degree or PhD,Psychologist,"\$100,000 - $150,000",East Asian,65 and above,Somewhat familiar
+2025-05-25 21:09:15,Shawn,Female,Graduate Degree,accountant,"\$150,000 - $250,000",Hispanic or Latin American,55 - 64,Very familiar
+2025-05-25 21:17:10,Jan,Female,Graduate Degree,accountant,"\$150,000 - $250,000",Hispanic or Latin American,55 - 64,Very familiar
