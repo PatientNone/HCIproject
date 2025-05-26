@@ -23,6 +23,7 @@ A **Streamlit-based web application** designed to collect and report user experi
 - Streamlit
 - Pandas
 
+---
 
 ## CSV Outputs
 
@@ -32,7 +33,9 @@ Each submission writes data to a corresponding CSV:
 - task_data.csv — Task selection, timer duration, completion status, and notes.
 - exit_data.csv — Feedback on satisfaction, difficulty, confidence, and open-ended suggestions.
 
-##Sample Use Cases
+---
+
+## Sample Use Cases
 
 - Academic research in Human-Computer Interaction
 - Usability testing of digital tools or prototypes
